@@ -59,7 +59,7 @@ jogador.setPosition(80, 60)
 controller.moveSprite(jogador, 100, 0)
 jogador.ay = 300
 info.setScore(pontos)
-info.setLife(10)
+info.setLife(5)
 scene.setBackgroundImage(img`
     fffffffcbccffffffffffcfbddddddddddd111111111111111111111111dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddbffcddffffffcfcfffff
     fffffffccffffcffffffbfddddddddd11111111111111111111111111111111ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddfccdbffffffffffffff
